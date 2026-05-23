@@ -175,7 +175,7 @@ If an integer, set text body width to that integer in columns; if
 a floating point between 0.0 and 1.0, set text body width to that
 fraction of the total window width. If nil (the default), use the
 value of `fill-column' + 2. The extra 2 columns are to prevent
-text files at `fill-colum ' from wrapping in the body widith.
+text files at `fill-column' from wrapping in the body width.
 
 An integer is best if you want text body width to remain
 constant, while a floating point is best if you want text body
